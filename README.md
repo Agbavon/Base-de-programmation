@@ -158,6 +158,6 @@ pour fournir des commentaires ou signaler des erreurs, soit créer [a pull reque
    c. [GitHub_Pull_Request](https://docs.joomla.org/Using_the_Github_UI_to_Make_Pull_Requests/fr).
    
  
-#### Instructeur: [Yaé Ulrich Gaba](https://github.com/gabayae).
+#### Instructeur: [Koffi Messan Agbavon][https://github.com/Agbavon].
 
 
